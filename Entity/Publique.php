@@ -10,7 +10,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="Public", uniqueConstraints={@ORM\UniqueConstraint(name="Public", columns={"Public"})}, indexes={@ORM\Index(name="IdTypePublic", columns={"IdTypePublic"})})
  * @ORM\Entity
  */
-class Public
+class Publique
 {
     /**
      * @var integer
