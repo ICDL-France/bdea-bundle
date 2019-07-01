@@ -1,5 +1,5 @@
 {
-    "name": "EA/BdeaBundle",
+    "name": "icdl-france/bdea-bundle",
     "type": "symfony-bundle",
     "homepage":"https://github.com/ICDL-France",
     "description": "BDEA Mapping Bundle",
