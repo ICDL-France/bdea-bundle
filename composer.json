@@ -1,6 +1,7 @@
 {
     "name": "EA/BdeaBundle",
     "type": "symfony-bundle",
+    "homepage":"https://github.com/ICDL-France",
     "description": "BDEA Mapping Bundle",
     "keywords": ["bdea", "mapping"],
     "license": "GPL-3.0+",
